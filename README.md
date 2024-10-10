@@ -1,5 +1,6 @@
 # Netflix_Power_BI_Project
 ![Netflix](https://github.com/agujalwar/Netflix_Power_BI_Project/blob/main/Netflix%20logo.png)
+
 This dashboard analyzes Netflix's content library, viewing trends, and user preferences to provide comprehensive insights into what drives viewer engagement.
 
 ## 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:

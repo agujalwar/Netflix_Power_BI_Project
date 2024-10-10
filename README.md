@@ -1,5 +1,5 @@
 # Netflix_Power_BI_Project
-![Netflix](https://github.com/agujalwar/Netflix_Power_BI_Project/blob/main/Netflix%20logo.png)
+![Netflix](https://github.com/agujalwar/Netflix_Power_BI_Project/blob/main/Netflix%20Dashboard%20screenshot.jpg)
 
 [Check out my LinkedIn post](https://www.linkedin.com/posts/ashwini-gujalwar_powerbi-dataanalytics-dashboarddevelopment-activity-7250225206965780483-NU-w?utm_source=share&utm_medium=member_desktop)
 

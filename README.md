@@ -3,7 +3,7 @@
 
 [Check out my LinkedIn post](https://www.linkedin.com/posts/ashwini-gujalwar_powerbi-dataanalytics-dashboarddevelopment-activity-7250225206965780483-NU-w?utm_source=share&utm_medium=member_desktop)
 
-## 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
+## 🔍 Page 1: 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 This dashboard analyzes Netflix's content library, viewing trends, and user preferences to provide comprehensive insights into what drives viewer engagement.
 
 ### Features:
@@ -18,7 +18,7 @@ Open the dashboard to explore genre-based insights, top-rated content, and compa
 
 
 ## 𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐡𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
-#### 📊 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐧𝐭:**
+#### 📊 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐧𝐭:
 Developed an intuitive, user-friendly design focused on presenting data in a visually impactful way.
 
 #### 📥 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐈𝐧𝐠𝐞𝐬𝐭𝐢𝐨𝐧:
@@ -35,6 +35,22 @@ Leveraged DAX to create calculated columns for new data points and dynamic measu
 - 𝐁𝐚𝐫 𝐂𝐡𝐚𝐫𝐭 𝐰𝐢𝐭𝐡 𝐒𝐞𝐜𝐨𝐧𝐝𝐚𝐫𝐲 𝐒𝐭𝐞𝐩𝐩𝐞𝐝 𝐋𝐢𝐧𝐞 𝐀𝐱𝐢𝐬: Integrated to compare trends and highlight secondary data patterns.
 - 𝐓𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚𝐛𝐚𝐫𝐬 𝐚𝐧𝐝 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠: Used conditional formatting to highlight key data points for faster analysis.
 - 𝐌𝐚𝐩 𝐰𝐢𝐭𝐡 𝐒𝐢𝐳𝐞 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫 𝐅𝐢𝐥𝐭𝐞𝐫𝐬: Added geographic insights using dynamic size parameters to reflect key metrics.
+
+### Page 2: Geographic Insights
+
+![map](https://github.com/agujalwar/Netflix_Power_BI_Project/blob/main/Netflix%20Dashboard%20Map.jpg)
+
+### Features
+- Map Visualization: A global map showing the distribution of Netflix titles by country.
+- Country Selection Panel: Interact with country-specific content by selecting countries on the map to view details such as total titles, average ratings, and total votes.
+
+### Page 3: Genre & Ratings Analysis
+![genre vs ratings](https://github.com/agujalwar/Netflix_Power_BI_Project/blob/main/Netflix%20Dashboard%20Genre%20%26%20Ratings%20Analysis.jpg)
+
+### Features
+- Bar Chart: Genre breakdown with corresponding average ratings.
+- Stacked Column Chart: Comparison of genres by the number of votes per title.
+
 
 ### 💡 𝐈𝐦𝐩𝐚𝐜𝐭:
 This project aims to enhance strategic decision-making for content creation and acquisition by providing actionable insights into viewer preferences and trends.

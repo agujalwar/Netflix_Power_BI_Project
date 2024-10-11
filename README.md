@@ -3,23 +3,31 @@
 
 [Check out my LinkedIn post](https://www.linkedin.com/posts/ashwini-gujalwar_powerbi-dataanalytics-dashboarddevelopment-activity-7250225206965780483-NU-w?utm_source=share&utm_medium=member_desktop)
 
-
-This dashboard analyzes Netflix's content library, viewing trends, and user preferences to provide comprehensive insights into what drives viewer engagement.
-
 ## 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 This dashboard analyzes Netflix's content library, viewing trends, and user preferences to provide comprehensive insights into what drives viewer engagement.
 
+### Features:
+
+- Bar Chart: Shows average ratings and number of titles by genre.
+- KPIs: Displays total movies, average rating, and total votes.
+- Top-Rated Titles: Highlights the most popular movies and TV shows.
+- Country-wise Data Table: Breaks down titles, average rating, and votes by country.
+
+Usage:
+Open the dashboard to explore genre-based insights, top-rated content, and compare performance globally via the country-wise table.
+
+
 ## 𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐡𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
-### 📊 **𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐧𝐭:**
+#### 📊 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐧𝐭:**
 Developed an intuitive, user-friendly design focused on presenting data in a visually impactful way.
 
-### 📥 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐈𝐧𝐠𝐞𝐬𝐭𝐢𝐨𝐧:
+#### 📥 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐈𝐧𝐠𝐞𝐬𝐭𝐢𝐨𝐧:
 Structured and cleaned the dataset for seamless ingestion into Power BI, ensuring data integrity.
 
-### 🧮 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬 (𝐃𝐀𝐗):
+#### 🧮 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬 (𝐃𝐀𝐗):
 Leveraged DAX to create calculated columns for new data points and dynamic measures for custom metrics (e.g., averages, totals, percentages), enabling advanced analysis.
 
-### 📊 𝐕𝐢𝐬𝐮𝐚𝐥 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐬:
+#### 📊 𝐕𝐢𝐬𝐮𝐚𝐥 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐬:
 - 𝐅𝐮𝐧𝐧𝐞𝐥 𝐂𝐡𝐚𝐫𝐭: Implemented to visualize the progression and conversion rates across different stages.
 - 𝐍𝐞𝐰 𝐂𝐚𝐫𝐝 𝐰𝐢𝐭𝐡 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐋𝐚𝐛𝐞𝐥𝐬: Displayed critical KPIs with reference labels for easy comparison.
 - 𝐓𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐈𝐦𝐚𝐠𝐞𝐬: Enhanced data tables with images to provide additional context.

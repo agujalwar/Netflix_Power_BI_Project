@@ -49,7 +49,7 @@ Leveraged DAX to create calculated columns for new data points and dynamic measu
 
 ### Features
 - Bar Chart: Genre breakdown with corresponding average ratings.
-- Stacked Column Chart: Comparison of genres by the number of votes per title.
+- Stacked Column Chart: Comparison of genres by the number of title.
 
 
 ### 💡 𝐈𝐦𝐩𝐚𝐜𝐭:
